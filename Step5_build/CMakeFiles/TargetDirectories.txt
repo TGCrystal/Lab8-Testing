@@ -1,0 +1,8 @@
+/home/tgcrystal/college/tmp/cmake/Help/guide/tutorial/Step5_build/CMakeFiles/install/strip.dir
+/home/tgcrystal/college/tmp/cmake/Help/guide/tutorial/Step5_build/CMakeFiles/install/local.dir
+/home/tgcrystal/college/tmp/cmake/Help/guide/tutorial/Step5_build/CMakeFiles/install.dir
+/home/tgcrystal/college/tmp/cmake/Help/guide/tutorial/Step5_build/CMakeFiles/list_install_components.dir
+/home/tgcrystal/college/tmp/cmake/Help/guide/tutorial/Step5_build/CMakeFiles/rebuild_cache.dir
+/home/tgcrystal/college/tmp/cmake/Help/guide/tutorial/Step5_build/CMakeFiles/edit_cache.dir
+/home/tgcrystal/college/tmp/cmake/Help/guide/tutorial/Step5_build/CMakeFiles/test.dir
+/home/tgcrystal/college/tmp/cmake/Help/guide/tutorial/Step5_build/CMakeFiles/Tutorial.dir
