@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/tgcrystal/college/tmp/Lab-BuildSystemsExample/headers/block.h
+
+/home/tgcrystal/college/tmp/Lab-BuildSystemsExample/program.c
+headers/block.h
+/home/tgcrystal/college/tmp/Lab-BuildSystemsExample/headers/block.h
+

@@ -1,0 +1,6 @@
+/home/tgcrystal/college/tmp/Lab-BuildSystemsExample/build/CMakeFiles/rebuild_cache.dir
+/home/tgcrystal/college/tmp/Lab-BuildSystemsExample/build/CMakeFiles/dynamic_block.dir
+/home/tgcrystal/college/tmp/Lab-BuildSystemsExample/build/CMakeFiles/static_block.dir
+/home/tgcrystal/college/tmp/Lab-BuildSystemsExample/build/CMakeFiles/static_block_library.dir
+/home/tgcrystal/college/tmp/Lab-BuildSystemsExample/build/CMakeFiles/edit_cache.dir
+/home/tgcrystal/college/tmp/Lab-BuildSystemsExample/build/CMakeFiles/dynamic_block_library.dir
